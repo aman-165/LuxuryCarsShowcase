@@ -32,7 +32,7 @@ A sleek and modern car card layout project built with HTML and CSS, showcasing p
    ```bash
    cd LuxuryCarsShowcase
    open index.html
-Or right-click on index.html and open with your browser.
+Or right-click on index.html and open with your browser. <br>
 3. **Customize it:**
 
 You can add more cars by copying the card component and changing the data.
